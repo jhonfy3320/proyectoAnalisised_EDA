@@ -1,0 +1,11 @@
+# Archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.vscode/
+.idea/
+
+# Archivos y directorios específicos del entorno virtual (opcional)
+venv/
+env/
